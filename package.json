@@ -2,7 +2,7 @@
   "name": "e-book-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://evertondenis.github.io/",
+  "homepage": "https://evertondenis.github.io/e-book-store",
   "description": "E-book Store",
   "dependencies": {
     "eslint": "^4.19.1",
