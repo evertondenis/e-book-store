@@ -241,3 +241,14 @@ export const Input = styled.input`
       color: #c5c5c5;
   }
 `
+
+export const Button = styled.button`
+  padding: 17px;
+  width: 100%;
+  border: 0;
+  background-color: #000;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+`
