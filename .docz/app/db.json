@@ -1,0 +1,16 @@
+{
+  "config": {
+    "title": "E-book Store",
+    "description": "This is a simple e-commerce",
+    "themeConfig": {
+      "colors": {
+        "primary": "tomato"
+      }
+    },
+    "ordering": "descending",
+    "version": "0.1.0",
+    "repository": null,
+    "port": "3030"
+  },
+  "entries": {}
+}
